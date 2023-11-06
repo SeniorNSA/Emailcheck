@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\drtex\\.nuget\\packages\\": {}
+    "C:\\Users\\rjren\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\UTSA Stuff\\fall 2023\\Senior Design\\project\\emailcheck\\emailcheck.csproj",
+      "projectUniqueName": "C:\\Users\\rjren\\Downloads\\NSAProject\\Emailcheck\\emailcheck.csproj",
       "projectName": "emailcheck",
-      "projectPath": "E:\\UTSA Stuff\\fall 2023\\Senior Design\\project\\emailcheck\\emailcheck.csproj",
-      "packagesPath": "C:\\Users\\drtex\\.nuget\\packages\\",
-      "outputPath": "E:\\UTSA Stuff\\fall 2023\\Senior Design\\project\\emailcheck\\obj\\",
+      "projectPath": "C:\\Users\\rjren\\Downloads\\NSAProject\\Emailcheck\\emailcheck.csproj",
+      "packagesPath": "C:\\Users\\rjren\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rjren\\Downloads\\NSAProject\\Emailcheck\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\drtex\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\rjren\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
