@@ -2,7 +2,7 @@ Sender: NSAProgramTester3@gmail.com
 Receirver: NSAProgramTester1@gmail.com 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Classification: UNCLASSIFIED
+UNCLASSIFIED
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ Classification: UNCLASSIFIED
 (S)Deep in the heart of the forest, a hidden waterfall cascaded over moss-covered rocks. The gentle sound of flowing water provided a soothing backdrop for woodland creatures going about their daily routines. Nature's beauty thrived in these untouched realms.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Classification: UNCLASSIFIED
+UNCLASSIFIED

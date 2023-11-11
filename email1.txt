@@ -2,7 +2,7 @@ Sender: NSAProgramTester1@gmail.com
 Receirver: NSAProgramTester2@gmail.com 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Classification: TOP SECRET//TALENT KEYHOLE
+TOP SECRET//TALENT KEYHOLE
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 (U)The sun rose over the horizon, painting the sky with vibrant shades of orange and pink. Birds greeted the new day with joyful songs, their melodies filling the air with a sense of optimism. Meanwhile, people in the small town began to stir, preparing for another day of bustling activity.
@@ -26,4 +26,4 @@ Classification: TOP SECRET//TALENT KEYHOLE
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Classification: SECRET//COMINT
+SECRET//COMINT
