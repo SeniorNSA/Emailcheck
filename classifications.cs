@@ -55,9 +55,9 @@ public int validate(string sect1){
 }
 
 //This class is for the section 2 classifications
-class SectionTwo{
+class SectionFour{
 
-    public int validate(string sect1,string sect2, string noforn, string orcon, string tk){
+    public int validate(string sect1,string sect4, string noforn, string orcon, string tk){
         
         int status = 0;
 
@@ -65,14 +65,14 @@ class SectionTwo{
         if(sect1 != "UNCLASSIFIED"){
 
 //This if statement checks if "sect2" is assigned with "HCS" as well checking if noforn is assigned with "NOFORN"
-        if((sect2 == "HCS")&&(noforn == "NOFORN")){
+        if((sect4 == "HCS")&&((noforn == "NOFORN")||(noforn == "NOT RELEASABLE TO FOREIGN NATIONALS"))){
 
             
             status = 1;
            
 
 //This will check if "sect2" is assigned with either COMINT or SI
-        }else if((sect2 == "COMINT") || (sect2 == "SI")){
+        }else if((sect4 == "COMINT") || (sect4 == "SI")){
 
             status = 2;
 
@@ -80,9 +80,9 @@ class SectionTwo{
 
 
 //This will check if "sect2" is assigned with COMINT-GAMMA or SI-G as well as checking if "sect1" is assigned with TOP SECRET
-        }else if(((sect2 == "COMINT-GAMMA") || (sect2 == "SI-G")) && (sect1 == "TOP SECRET")){
+        }else if(((sect4 == "COMINT-GAMMA") || (sect4 == "SI-G")) && (sect1 == "TOP SECRET")){
 //this will check if the classification ORCON exists
-            if(orcon == "ORCON"){
+            if((orcon == "ORCON")||(orcon == "ORIGINATOR CONTROLLED")){
        
             status = 3;
       
@@ -101,7 +101,7 @@ class SectionTwo{
             
 
 //This will check if "sect2" is assigned with COMINT-ECI or SI-ECI as well as checking if "sect1" is assigned with TOP SECRET.
-        }else if( ((sect2 == "COMINT-ECI") || (sect2 == "SI-ECI")) && (sect1 == "TOP SECRET") ){
+        }else if( ((sect4 == "COMINT-ECI") || (sect4 == "SI-ECI")) && (sect1 == "TOP SECRET") ){
 
             status = 4;
 //This will also check if TALENT KEYHOLE exists. If it does, the value of status will be increased by 3
@@ -115,9 +115,9 @@ class SectionTwo{
 
 
 //This will check if "sect2" is assigned with COMINT-GAMMA-ECI or SI-G-ECI as well as checking if "sect1" is assigned with TOP SECRET.
-        }else if( ((sect2 == "COMINT-GAMMA-ECI") || (sect2 == "SI-G-ECI")) && (sect1 == "TOP SECRET") ){
+        }else if( ((sect4 == "COMINT-GAMMA-ECI") || (sect4 == "SI-G-ECI")) && (sect1 == "TOP SECRET") ){
 //this will check if the classification ORCON exists            
-            if(orcon == "ORCON"){
+            if((orcon == "ORCON")||(orcon == "ORIGINATOR CONTROLLED")){
       
             status = 5;
        
