@@ -1,5 +1,5 @@
 Sender: NSAProgramTester3@gmail.com
-Receirver: NSAProgramTester1@gmail.com 
+Receiver: NSAProgramTester1@gmail.com
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 UNCLASSIFIED

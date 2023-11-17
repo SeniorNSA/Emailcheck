@@ -12,3 +12,18 @@ E:\UTSA Stuff\fall 2023\Senior Design\project\emailcheck\obj\Debug\net7.0\refint
 E:\UTSA Stuff\fall 2023\Senior Design\project\emailcheck\obj\Debug\net7.0\emailcheck.pdb
 E:\UTSA Stuff\fall 2023\Senior Design\project\emailcheck\obj\Debug\net7.0\emailcheck.genruntimeconfig.cache
 E:\UTSA Stuff\fall 2023\Senior Design\project\emailcheck\obj\Debug\net7.0\ref\emailcheck.dll
+C:\Users\rjren\Downloads\NSAProject\Emailcheck\obj\Debug\net7.0\emailcheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjren\Downloads\NSAProject\Emailcheck\obj\Debug\net7.0\emailcheck.AssemblyInfoInputs.cache
+C:\Users\rjren\Downloads\NSAProject\Emailcheck\obj\Debug\net7.0\emailcheck.AssemblyInfo.cs
+C:\Users\rjren\Downloads\NSAProject\Emailcheck\obj\Debug\net7.0\emailcheck.csproj.CoreCompileInputs.cache
+C:\Users\rjren\Downloads\NSAProject\Emailcheck\obj\Debug\net7.0\emailcheck.sourcelink.json
+C:\Users\rjren\Downloads\NSAProject\Emailcheck\obj\Debug\net7.0\emailcheck.dll
+C:\Users\rjren\Downloads\NSAProject\Emailcheck\obj\Debug\net7.0\refint\emailcheck.dll
+C:\Users\rjren\Downloads\NSAProject\Emailcheck\obj\Debug\net7.0\emailcheck.pdb
+C:\Users\rjren\Downloads\NSAProject\Emailcheck\bin\Debug\net7.0\emailcheck.exe
+C:\Users\rjren\Downloads\NSAProject\Emailcheck\bin\Debug\net7.0\emailcheck.deps.json
+C:\Users\rjren\Downloads\NSAProject\Emailcheck\bin\Debug\net7.0\emailcheck.runtimeconfig.json
+C:\Users\rjren\Downloads\NSAProject\Emailcheck\bin\Debug\net7.0\emailcheck.dll
+C:\Users\rjren\Downloads\NSAProject\Emailcheck\bin\Debug\net7.0\emailcheck.pdb
+C:\Users\rjren\Downloads\NSAProject\Emailcheck\obj\Debug\net7.0\emailcheck.genruntimeconfig.cache
+C:\Users\rjren\Downloads\NSAProject\Emailcheck\obj\Debug\net7.0\ref\emailcheck.dll

@@ -1,5 +1,5 @@
-Sender: NSAProgramTester1@gmail.com 
-Receirver: NSAProgramTester2@gmail.com 
+Sender: NSAProgramTester1@gmail.com
+Receiver: NSAProgramTester2@gmail.com
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 TOP SECRET//TALENT KEYHOLE

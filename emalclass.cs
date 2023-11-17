@@ -5,7 +5,7 @@ namespace SecurityClassifications
 {
     class Program
     {
-        static void Main(String[] args)
+        static void Main1(String[] args)
         {
             Dictionary<string, string> emailClass = new Dictionary<string, string>();
             Dictionary<string, string> employeeRoles = new Dictionary<string, string>
