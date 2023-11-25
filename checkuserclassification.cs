@@ -19,7 +19,7 @@ namespace checkuserclassification{
 
     class Program{
 
-        static void Main(String[] args){
+        static void Main5(String[] args){
 
 
             //These variables are for the file IO. 

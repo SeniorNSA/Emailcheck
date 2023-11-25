@@ -1,0 +1,17 @@
+1. Need to make an API for grabbing and handling the sender and receiver of an email.
+2. Need to initialize a outlook add in project.
+3. See if connecting the API and the add in is possible.
+4. A database may be necessary for handling permission components(new/old permissions).
+
+1. Create a new JavaScript File that will:
+1a. give permissions to users
+for reference these are the three emails along with their roles and classifications I want you to keep track of:
+NSAProgramTester1@outlook.com
+role: "Head of Department"
+classifications: "TOP SECRET", "SECRET", "CONFIDENTIAL", "UNCLASSIFIED", "HCS", "COMINT", "-GAMMA", "-ECI", "TALENT KEYHOLE", "TS", "S", "C", "U", "HCS", "SI","-G", "-ECI XXX", "TK"
+NSAProgramTester2@outlook.com
+role:"Employee"
+classifications: "SECRET", "CONFIDENTIAL", "UNCLASSIFIED", "HCS", "COMINT", "TALENT KEYHOLE","C", "U", "HCS", "SI", "TK"
+NSAProgramTester3@outlook.com
+role: intern
+classifications:"CONFIDENTIAL", "UNCLASSIFIED", "HCS", "COMINT", "C", "U", "HCS", "SI"

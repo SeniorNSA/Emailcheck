@@ -25,7 +25,7 @@ class EmailClassifier {
         }}
     };
 
-    static void Main(string[] args) {
+    static void Main7(string[] args) {
         string filePath = "./email1.txt";
         string[] lines = File.ReadAllLines(filePath);
 
